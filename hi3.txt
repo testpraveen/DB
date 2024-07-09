@@ -3,3 +3,4 @@ Sequence 2: Miracle Invoker
 Sequence 3: Scholar of Yore
 Sequence 4: Bizzaro Sorcerer
 Sequence 5: Marionettist
+Sequence 6: Faceless
