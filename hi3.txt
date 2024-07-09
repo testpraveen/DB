@@ -1,3 +1,4 @@
+---- Seer/Fool ----
 Sequence 0: The Fool
 Sequence 1: Attendant of Mysteries
 Sequence 2: Miracle Invoker
@@ -9,4 +10,4 @@ Sequence 7: Magician
 Sequence 8: Clown
 Sequence 9: Seer
 
----- Door ----
+---- Apprentice/Door ----
