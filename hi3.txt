@@ -1,2 +1,3 @@
 Sequence 1: Attendant of Mysteries
 Sequence 2: Miracle Invoker
+Sequence 3: Scholar of Yore
