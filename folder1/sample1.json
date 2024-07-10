@@ -1,6 +1,7 @@
 {
     "fruit": "Apple",
     "size": "Large",
-    "color": "Red"
-    "Likeness": "Irreconcilable hatred"
+    "color": "Red", 
+    "Likeness": "Irreconcilable hatred", 
+    "a": "b"
 }
