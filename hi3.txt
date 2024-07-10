@@ -12,3 +12,5 @@ Sequence 9: Seer
 
 ---- Apprentice/Door ----
 Sequence 0: Door
+Sequence 1: ?
+Sequence 2: ?
