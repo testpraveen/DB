@@ -1,4 +1,10 @@
-{
-    "fruit": "Apple", 
-    "Fondness": "Destroy on sight"
-}
+[
+    {
+        "fruit": "Apple", 
+        "Fondness": "Destroy on sight"
+    }, 
+    {
+        "fruit": "Muskmelon", 
+        "Fondness": "Destroy on sight"
+    }
+
