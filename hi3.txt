@@ -8,4 +8,4 @@ Sequence 5: Marionettist
 Sequence 6: Faceless
 Sequence 7: Magician
 Sequence 8: Clown
-Sequence 9: Seer
+Sequence 9: Seer 
