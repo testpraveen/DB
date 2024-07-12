@@ -1,0 +1,11 @@
+---- Seer/Fool ----
+Sequence 0: The Fool
+Sequence 1: Attendant of Mysteries
+Sequence 2: Miracle Invoker
+Sequence 3: Scholar of Yore
+Sequence 4: Bizzaro Sorcerer
+Sequence 5: Marionettist
+Sequence 6: Faceless
+Sequence 7: Magician
+Sequence 8: Clown
+Sequence 9: Seer
