@@ -2,5 +2,7 @@
     "fruit": "Apple",
     "size": "Large",
     "color": "Red", 
-    "uselesscomment": "sample2.json got updated", "dasf": "dsa"
+    "uselesscomment": "sample2.json got updated", 
+    "dasf": "dsa", 
+    "anotheruselesscomment": "sample2.json got updated" 
 }
