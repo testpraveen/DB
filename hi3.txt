@@ -10,5 +10,3 @@ Sequence 7: Magician
 Sequence 8: Clown
 Sequence 9: Seer 
 
-------------------
-updates
